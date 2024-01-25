@@ -1,5 +1,0 @@
-{
-	attenuation idle
-	sound ./idle
-	volume 1.0
-}
